@@ -1,0 +1,8 @@
+# Mahitaji ya Python Windows Print Agent (Stationery PC)
+requests>=2.31.0
+pywin32>=306
+pypdf>=4.1.0
+pillow>=10.2.0
+
+# SumatraPDF inahitajika kwa uchapishaji wa kimya wa PDF kwenye Windows:
+# Pakua kutoka: https://www.sumatrapdfreader.org/download-free-pdf-viewer

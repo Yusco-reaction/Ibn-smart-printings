@@ -1,0 +1,6 @@
+{
+  "name": "Ibn Smart Print",
+  "description": "Smart cloud printing platform and Python Windows print agent for stationery shops in Tanzania with Epson EcoTank L3250 integration, mobile money, and counter payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
